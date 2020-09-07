@@ -1,0 +1,17 @@
+
+.comment-card{
+    width: 400px;
+    height: 500px;
+    text-align: center;
+    position: relative;
+    left: 450px;
+    margin: 50px 0px;
+    margin-top:20px;
+   
+}
+.img{
+    margin-top:10px;
+    height: 100px;
+    width:100px;
+    border-radius: 50px;
+}
